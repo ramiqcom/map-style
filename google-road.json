@@ -1,0 +1,19 @@
+{
+  "version": 8,
+  "sources": {
+    "google-road": {
+      "type": "raster",
+      "tiles": ["https://mt1.google.com/vt/lyrs=r&x={x}&y={y}&z={z}"],
+      "tileSize": 128
+    }
+  },
+  "layers": [
+    {
+      "id": "google-road",
+      "type": "raster",
+      "source": "google-road",
+      "minzoom": 0,
+      "maxzoom": 22
+    }
+  ]
+}
