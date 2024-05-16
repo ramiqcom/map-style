@@ -6,7 +6,8 @@
       "tiles": [
         "http://www.google.cn/maps/vt?lyrs=s@189&gl=cn&x={x}&y={y}&z={z}"
       ],
-      "tileSize": 256
+      "tileSize": 256,
+      "attribution": "Google"
     }
   },
   "layers": [
