@@ -6,7 +6,7 @@
       "tiles": [
         "http://www.google.cn/maps/vt?lyrs=s@189&gl=cn&x={x}&y={y}&z={z}"
       ],
-      "tileSize": 128
+      "tileSize": 256
     }
   },
   "layers": [
